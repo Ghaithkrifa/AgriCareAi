@@ -4,7 +4,7 @@ This application helps farmers detect plant leaf diseases and generate reports w
 
 In addition, the application features a comprehensive weather dashboard. This dashboard allows farmers to view weather forecasts and historical data, helping them plan their agricultural activities more effectively.
 
-![Application Screenshot](/deployment/agris-removebg-preview.png)  
+![Application Screenshot](deployement/agris-removebg-preview.png)  
 
 
 
